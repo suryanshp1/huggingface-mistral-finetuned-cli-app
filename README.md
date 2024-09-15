@@ -18,7 +18,7 @@ conda activate ./venv
 3. Run cli command
 
 ```
-python parser.py  -prompt  <your pr>
+python parser.py  -prompt  <your prompt input>
 ```
 
 Example command
